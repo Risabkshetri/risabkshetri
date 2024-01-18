@@ -1,7 +1,8 @@
-[[![MasterHead]()
+[![MasterHead](https://pics.craiyon.com/2023-07-11/be5e36d7e30f458194859f97e4043489.webp)
 <h1 align="center">Hi 👋, I'm Risab Kshetri</h1>
-<h3 align="center">...Be familiar with AI | keep learning | keep updating with tecnology...</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.craiyon.com/image/FvuhHUHbSrCWgBbNcad3Kg](https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif)">
+<h3 align="center">...A passionate frontend developer from India | Code explorer | crafting the digital nararives for tomorrow...</h3>
+
+<img src="https://pics.craiyon.com/2023-07-11/be5e36d7e30f458194859f97e4043489.webp" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risaw33&label=Profile%20views&color=0e75b6&style=flat" alt="risaw33" /> </p>
 
