@@ -1,7 +1,7 @@
 [[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Risab Kshetri</h1>
 <h3 align="center">...Be familiar with AI | keep learning | keep updating with tecnology...</h3>
-<img align="right" alt="Coding" width="400" src="https://www.craiyon.com/image/FvuhHUHbSrCWgBbNcad3Kg">
+<img align="right" alt="Coding" width="400" src="[https://www.craiyon.com/image/FvuhHUHbSrCWgBbNcad3Kg](https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risaw33&label=Profile%20views&color=0e75b6&style=flat" alt="risaw33" /> </p>
 
