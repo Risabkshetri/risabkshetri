@@ -1,4 +1,4 @@
-[![MasterHead](https://pngtree.com/freebackground/3d-rendered-image-illustrating-the-concept-of-coding-and-programming_7283662.html)
+[![MasterHead](https://i.pinimg.com/736x/b3/37/bf/b337bfb12e5f42f3cc32331190c63129.jpg)
 <h1 align="center">Hi 👋, I'm Risab Kshetri</h1>
 <h3 align="center">...A passionate frontend developer from India | Code explorer | crafting the digital nararives for tomorrow...</h3>
 
