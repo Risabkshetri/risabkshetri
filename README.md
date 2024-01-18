@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risaw33&show_icons=true&locale=en" alt="risaw33" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risaw33&" alt="risaw33" /></p>](https://wallpapercave.com/w/wp3082255)https://wallpapercave.com/w/wp3082255
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risaw33&" alt="risaw33" /></p>]
