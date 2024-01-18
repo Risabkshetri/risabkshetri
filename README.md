@@ -1,7 +1,7 @@
-[[![MasterHead](https://giphy.com/explore/traffic-bot-hack)
+[[![MasterHead]([https://giphy.com/explore/traffic-bot-hack](https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHx8MA%3D%3D))
 <h1 align="center">Hi 👋, I'm Risab Kshetri</h1>
 <h3 align="center">...Be familiar with AI | keep learning | keep updating with tecnology...</h3>
-<img align="right" alt="Coding" width="400" src="https://gifer.com/en/EmhT">
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.craiyon.com%2Fimage%2FFvuhHUHbSrCWgBbNcad3Kg&psig=AOvVaw1E8YnZaeLJy4tr9e9EOcTp&ust=1705683326368000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCu_6q054MDFQAAAAAdAAAAABAD](https://pics.craiyon.com/2023-07-11/be5e36d7e30f458194859f97e4043489.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risaw33&label=Profile%20views&color=0e75b6&style=flat" alt="risaw33" /> </p>
 
@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risaw33&show_icons=true&locale=en" alt="risaw33" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risaw33&" alt="risaw33" /></p>]
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risaw33&" alt="risaw33" /></p>
