@@ -1,4 +1,4 @@
-<body>
+<body style ="backgroud_color:pink;">
   <selection><h1>💫About Me</h1>
     <h4>Hi 👋, I'm Risab Kshetri</h4>
     <h4>🚀 I am immense hunger to learn and exploring the new technologies 🖥️</h4>
