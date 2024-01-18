@@ -1,8 +1,14 @@
-[![MasterHead](https://i.pinimg.com/736x/b3/37/bf/b337bfb12e5f42f3cc32331190c63129.jpg)
-<h1 align="center">Hi 👋, I'm Risab Kshetri</h1>
-<h3 align="center">...A passionate frontend developer from India | Code explorer | crafting the digital nararives for tomorrow...</h3>
+<body>
+  <selection><h1>💫About Me</h1>
+    <h4>Hi 👋, I'm Risab Kshetri</h4>
+    <h4>🚀 I am immense hunger to learn and exploring the new technologies 🖥️</h4>
+    <h4>I am passinately 🔥 learning the web devlopment</h4>
+  </selection>
+ 
+</body>
+<h3 align="center">...A passionate frontend developer from India | Code explorer | crafting the digital narratives for tomorrow...</h3>
 
-<img src="https://pics.craiyon.com/2023-07-11/be5e36d7e30f458194859f97e4043489.webp" alt="Coding" width="400">
+<img src="https://pics.craiyon.com/2023-07-11/be5e36d7e30f458194859f97e4043489.webp" alt="Coding" width="400" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risaw33&label=Profile%20views&color=0e75b6&style=flat" alt="risaw33" /> </p>
 
