@@ -1,4 +1,5 @@
 <body style ="backgroud_color:pink;">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*0L7K1p-PpxaJ3GVal_1wpQ.png" width=100% height=300px >
   <selection><h1>💫About Me</h1>
     <h4>Hi 👋, I'm Risab Kshetri</h4>
     <h4>🚀 I am immense hunger to learn and exploring the new technologies 🖥️</h4>
