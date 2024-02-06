@@ -15,13 +15,13 @@
 
 <p align="left"> <a href="https://twitter.com/c_risaw" target="blank"><img src="https://img.shields.io/twitter/follow/c_risaw?logo=twitter&style=for-the-badge" alt="c_risaw" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+-⩥ 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **javascript,react**
+-⩥ 💬 Ask me about **javascript,react**
 
-- 📫 How to reach me **risawgc@gmail.com**
+-⩥ 📫 How to reach me **risawgc@gmail.com**
 
-- ⚡ Fun fact **I am addictive learner.**
+-⩥ ⚡ Fun fact **I am addictive learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
