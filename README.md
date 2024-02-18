@@ -22,7 +22,7 @@
 -⩥ 📫 How to reach me **risawgc@gmail.com**
 
 -⩥ ⚡ Fun fact **I am addictive learner.**
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/c_risaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c_risaw" height="30" width="40" /></a>
