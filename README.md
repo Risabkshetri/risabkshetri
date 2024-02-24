@@ -9,7 +9,7 @@
 </body>
 <h3 align="center">...A passionate frontend developer from India | Code explorer | crafting the digital narratives for tomorrow...</h3>
 <hr>
-<img align="right" src="https://i.pinimg.com/736x/d7/0e/95/d70e9553f55ea7a5559c3a3afa2b6d7d.jpg" alt="Coding" width="400" height="350" margin_left="200px" align="center">
+<img align="right" src="https://www.pngkit.com/png/full/25-258694_cool-avatar-transparent-image-cool-boy-avatar.png" alt="Coding" width="400" height="350" margin_left="200px" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risabkshetri&label=Profile%20views&color=0e75b6&style=flat" alt="risabkshetri" /> </p>
 
