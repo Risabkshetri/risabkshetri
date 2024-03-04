@@ -1,5 +1,5 @@
 <body style ="backgroud_color:pink;">
-  <img src="Screenshot (56).png" width=100% height=300px >
+  <img src="github-banner.png" width=100% height=300px >
   <selection><h1>💫About Me</h1>
     <h4>Hi 👋, I'm Risab Kshetri</h4>
     <h4>🚀 I am immense hunger to learn and exploring the new technologies 🖥️</h4>
