@@ -7,7 +7,7 @@
   </selection>
  
 </body>
-<h3 align="center">...A passionate frontend developer from India | Code explorer | crafting the digital narratives for tomorrow...</h3>
+<h3 align="center">...A passionate frontend developer | Code explorer | crafting the digital narratives for tomorrow...</h3>
 <hr>
 <img align="right" src="https://www.pngkit.com/png/full/25-258694_cool-avatar-transparent-image-cool-boy-avatar.png" alt="Coding" width="400" height="350" margin_left="200px" align="center">
 
