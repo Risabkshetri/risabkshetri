@@ -1,38 +1,90 @@
-<body style ="backgroud_color:pink;">
-  <selection><h1>💫About Me</h1>
-    <h4>Hi 👋, I'm Risab Kshetri</h4>
-    <h4>🚀 I am immense hunger to learn and exploring the new technologies 🖥️</h4>
-    <h4>I am passinately 🔥 learning the web devlopment</h4>
-  </selection>
- 
-</body>
-<h3 align="center">...A passionate frontend developer | Code explorer | crafting the digital narratives for tomorrow...</h3>
-<hr>
-<img align="right" src="https://www.pngkit.com/png/full/25-258694_cool-avatar-transparent-image-cool-boy-avatar.png" alt="Coding" width="400" height="350" margin_left="200px" align="center">
-<p align="left"> <a href="https://twitter.com/c_risaw" target="blank"><img src="https://img.shields.io/twitter/follow/c_risaw?logo=twitter&style=for-the-badge" alt="c_risaw"/></a></p>
+<h1 align="center">Hi there, I'm Rishab Kshetri 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7EE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+Expert;Node.js+%26+Express+Enthusiast;MongoDB+%7C+SQL+Pro;Python+%26+C%2B%2B+Programmer;Clean+Code+Advocate;Performance+Optimizer" alt="Typing SVG" />
+</div>
 
--⩥ 🌱 I’m currently learning **React**
 
--⩥ 💬 Ask me about **javascript,react**
-
--⩥ 📫 How to reach me **risawgc@gmail.com**
-
--⩥ ⚡ Fun fact **I am addictive learner.**
-<hr>
-<h1 align="left">🌐 Socials:</h3>
-<p align="left">
-<a href="https://twitter.com/@risab_kshetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c_risaw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/risab kshetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="risab kshetri" height="30" width="40" /></a>
-<a href="https://fb.com/risaw gc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="risaw gc" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/risab-kshetri">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/risab_kshetri">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:rishab@kshetriai.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/risabkshetri">
+    <img src="https://img.shields.io/github/followers/yourusername?label=follow&style=social"/>
+  </a>
 </p>
-<h1 align="left">💻 Tech Stack:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<h1 align = "left">📊 GitHub Stats:</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=risabkshetri&show_icons=true&locale=en&layout=compact" alt="risabkshetri" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risabkshetri&show_icons=true&locale=en" alt="risabkshetri" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risabkshetri&" alt="risabkshetri" /></p>
-<hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=risabkshetri&label=Profile%20views&color=0e75b6&style=flat" alt="risabkshetri" /> </p>
+### 🚀 About Me
+
+Full-Stack Developer | Tech Entrepreneur
+
+I specialize in building scalable and efficient web applications with a focus on user experience. My passion lies in turning innovative ideas into robust, real-world solutions.
+
+- 🔭 Currently working on a cutting-edge web platform(Kshetriai).
+- 🌱 Always learning: Exploring web development and AI
+- 💡 Passionate about clean code, performance optimization, and fast paced development
+- 🤝 Open to collaborating on interesting open-source projects
+- 📫 Reach me at: rishab@kshetriai.com
+---
+
+### 🛠️ Technologies & Tools
+
+<div align="center">
+  
+| Frontend | Backend | Database | Tools & Others |
+|----------|---------|----------|----------------|
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | | ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=risabkshetri&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risabkshetri&layout=compact&theme=radical"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=risabkshetri&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 🔥 My Contribution Streak
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risabkshetri&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=risabkshetri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
+
+<div align="center">
+  
+  **💬 Ask me about anything [here](https://github.com/risabkshetri/risabkshetri/issues)**
+  
+</div>
