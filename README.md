@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/risabkshetri">
-    <img src="https://img.shields.io/github/followers/yourusername?label=follow&style=social"/>
+    <img src="https://img.shields.io/github/followers/risabkshetri?label=follow&style=social"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@ Full-Stack Developer | Tech Entrepreneur
 
 I specialize in building scalable and efficient web applications with a focus on user experience. My passion lies in turning innovative ideas into robust, real-world solutions.
 
-- 🔭 Currently working on a cutting-edge web platform(Kshetriai).
+- 🔭 Currently working on a cutting-edge web platform (Kshetriai).
 - 🌱 Always learning: Exploring web development and AI
 - 💡 Passionate about clean code, performance optimization, and fast paced development
 - 🤝 Open to collaborating on interesting open-source projects
