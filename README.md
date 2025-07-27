@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Rishab Chhetri 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7EE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+Expert;Node.js+%26+Express+Experienced;MongoDB+%7C+SQL+Pro;Python+%26+C%2B%2B+Programmer;Clean+Code+Advocate;Performance+Optimizer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI-Powered+Product+Developer;Full+Stack+Engineer+%7C+React+%26+Next.js;Backend+Architect+%7C+Node.js+%26+FastAPI;LLM+Integration+%7C+Langchain+%7C+Vector+DBs;System+Design+%7C+Scalable+Architecture;Clean+Code+%26+Performance+Optimization;Startup+Founder+%7C+Product+Strategist" alt="Typing SVG" />
 </div>
 
 
