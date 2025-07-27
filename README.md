@@ -23,28 +23,57 @@
 
 ### 🚀 About Me
 
-Full-Stack Developer | Tech Entrepreneur
+Full-Stack Developer | AI & SaaS Innovator | Founder @ Zobique
 
-I specialize in building scalable and efficient web applications with a focus on user experience. My passion lies in turning innovative ideas into robust, real-world solutions.
+I architect and build scalable web platforms and AI-driven systems, combining full-stack engineering with LLM integration and cloud-native infrastructure. I thrive on turning complex ideas into high-performance, user-centric solutions.
 
-- 🔭 Currently working on a cutting-edge web platform (Kshetriai).
-- 🌱 Always learning: Exploring web development and AI
-- 💡 Passionate about clean code, performance optimization, and fast paced development
-- 🤝 Open to collaborating on interesting open-source projects
-- 📫 Reach me at: rishab@kshetriai.com
+- 🔭 Currently building **Zobique** — an AI-powered job search and career guidance platform integrating LLMs, real-time data, and automation tools.
+- 🧠 Deeply skilled in full-stack & backend development, LLM integration (Langchain, FastAPI), and scalable architecture.
+- 🌱 Constantly learning: Exploring advanced AI workflows, vector databases, and distributed systems.
+- 💡 Passionate about clean code, performance engineering, and building fast, reliable systems with impact.
+- 🤝 Open to collaborating on AI infrastructure, jobtech innovations, or OSS in developer tools/education tech.
+- 📫 Reach me at: [contact@zobique.com](mailto:contact@zobique.com)
+  
 ---
 
-### 🛠️ Technologies & Tools
+### 🚀 Tech Arsenal
 
 <div align="center">
-  
-| Frontend | Backend | Database | Tools & Others |
-|----------|---------|----------|----------------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | | ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
+
+```diff
+╔══════════════════════════════════════════════════════════════╗
+ ║                    [ FULL STACK DEVELOPER ]                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+#### ⚡ Technology Stack
+
+<div align="center">
+
+| 🎨 **Frontend** | ⚙️ **Backend** | 🗄️ **Database** | 🛠️ **Tools & Cloud** |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=vector&logoColor=white) | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| | ![Langchain](https://img.shields.io/badge/🦜_Langchain-2C5234?style=for-the-badge) | | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+
+</div>
+
+---
+
+<div align="center">
+
+```yaml
+┌─────────────────────────────────────────────────────────────┐
+│  "Code is poetry written in logic, executed in reality"    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Building the future, one commit at a time** 🌟
 
 </div>
 
