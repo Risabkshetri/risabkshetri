@@ -32,7 +32,7 @@ I architect and build scalable web platforms and AI-driven systems, combining fu
 - 🌱 Constantly learning: Exploring advanced AI workflows, vector databases, and distributed systems.
 - 💡 Passionate about clean code, performance engineering, and building fast, reliable systems with impact.
 - 🤝 Open to collaborating on AI infrastructure, jobtech innovations, or OSS in developer tools/education tech.
-- 📫 Reach me at: [contact@zobique.com](mailto:contact@zobique.com)
+- 📫 Reach me at: [ceo@zobique.com](mailto:ceo@zobique.com)
   
 ---
 
