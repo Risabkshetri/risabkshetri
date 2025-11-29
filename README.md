@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-Full-Stack Developer | AI & SaaS Innovator | Founder @ Zobique
+Full-Stack Developer | AI & SaaS Innovator | Founder @Zobique
 
 I architect and build scalable web platforms and AI-driven systems, combining full-stack engineering with LLM integration and cloud-native infrastructure. I thrive on turning complex ideas into high-performance, user-centric solutions.
 
