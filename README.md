@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Rishab Chhetri 👋</h1>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI-Powered+Product+Developer;Full+Stack+Engineer+%7C+React+%26+Next.js;Backend+Architect+%7C+Node.js+%26+FastAPI;LLM+Integration+%7C+Langchain+%7C+Vector+DBs;System+Design+%7C+Scalable+Architecture;Clean+Code+%26+Performance+Optimization;Startup+Founder+%7C+Product+Strategist" alt="Typing SVG" />
 </div>
