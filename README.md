@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Rishab Chhetri 👋</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI-Powered+Product+Developer;Full+Stack+Engineer+%7C+React+%26+Next.js;Backend+Architect+%7C+Node.js+%26+FastAPI;LLM+Integration+%7C+Langchain+%7C+Vector+DBs;System+Design+%7C+Scalable+Architecture;Clean+Code+%26+Performance+Optimization;Startup+Founder+%7C+Product+Strategist" alt="Typing SVG" />
 </div>
@@ -19,7 +20,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 
 ### 🚀 About Me
 
@@ -34,7 +35,7 @@ I architect and build scalable web platforms and AI-driven systems, combining fu
 - 🤝 Open to collaborating on AI infrastructure, jobtech innovations, or OSS in developer tools/education tech.
 - 📫 Reach me at: [ceo@zobique.com](mailto:ceo@zobique.com)
   
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 
 ### 🚀 Tech Arsenal
 
@@ -63,7 +64,7 @@ I architect and build scalable web platforms and AI-driven systems, combining fu
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 
 <div align="center">
 
@@ -77,7 +78,7 @@ I architect and build scalable web platforms and AI-driven systems, combining fu
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 
 ### 📊 GitHub Stats
 
@@ -86,27 +87,16 @@ I architect and build scalable web platforms and AI-driven systems, combining fu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risabkshetri&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&text_color=ffffff&title_color=58a6ff"/>
 </div>
 
----
-
-### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+  
+## 🔥 CONTRIBUTION ACTIVITY
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=risabkshetri&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=risabkshetri&theme=green&hide_border=false&bg_color=0a0a0a&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=00ff41)
 
 </div>
-
----
-
-### 🔥 My Contribution Streak
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risabkshetri&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=risabkshetri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
