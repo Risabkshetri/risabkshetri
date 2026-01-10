@@ -78,15 +78,6 @@ I architect and build scalable web platforms and AI-driven systems, combining fu
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
-
-### 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; background: #0d1117; padding: 20px; border-radius: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=risabkshetri&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risabkshetri&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&text_color=ffffff&title_color=58a6ff"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
   
 ## 🔥 CONTRIBUTION ACTIVITY
 
