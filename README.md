@@ -11,7 +11,7 @@
   <a href="https://x.com/risab_kshetri">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="mailto:rishab@kshetriai.com">
+  <a href="mailto:ceo@zobique.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/risabkshetri">
