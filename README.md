@@ -64,7 +64,7 @@ Some of the production work — the matching engine and most client deployments 
 
 <div align="center">
 
-![GitHub Activity Graph](https://YOUR-APP.vercel.app/graph?username=risabkshetri&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=risabkshetri&bg_color=0d1117&color=39ff14&line=00ff41&point=ffffff&area_color=003b16&area=true&hide_border=true)
 
 </div>
 
